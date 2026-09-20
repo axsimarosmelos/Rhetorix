@@ -1,0 +1,466 @@
+[
+  {
+    "id": "week-1",
+    "week": 1,
+    "month": 1,
+    "title": "The anatomy of persuasion",
+    "focus": "Ethos, pathos & logos",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Audience and classical appeals",
+    "objectives": [
+      "Distinguish credibility, emotion, and reasoning.",
+      "State what you want an audience to think or do."
+    ],
+    "lesson": [
+      "An appeal is a route to persuasion, not proof by itself. Credibility makes a speaker easier to trust; reasons still need checking.",
+      "Start with an audience need. Explain one concrete consequence, then connect evidence to your claim."
+    ],
+    "practice": [
+      "Write one claim in three versions: credibility-led, emotion-led, and evidence-led.",
+      "Deliver a 60-second introduction. Ask a listener to repeat your central point."
+    ],
+    "assessment": "A 90-second speech using all three appeals without inventing evidence.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-2",
+    "week": 2,
+    "month": 1,
+    "title": "Build an argument that holds",
+    "focus": "The Toulmin model",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Claims, reasons, and audience assumptions",
+    "objectives": [
+      "Separate grounds from warrants.",
+      "Qualify a claim and name an exception."
+    ],
+    "lesson": [
+      "Grounds are what you offer as support; the warrant explains why those grounds justify your claim. A missing warrant is a common source of disagreement.",
+      "Add backing for a disputed warrant. Use a qualifier such as usually or under these conditions, and state a real rebuttal condition."
+    ],
+    "practice": [
+      "Map a real opinion into all six Toulmin elements.",
+      "Ask a partner to challenge your warrant, then revise it."
+    ],
+    "assessment": "One six-part argument with a clearly stated limitation.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-3",
+    "week": 3,
+    "month": 1,
+    "title": "Spot the broken inference",
+    "focus": "Classical fallacies",
+    "minutes": 45,
+    "readingId": "pirie",
+    "readingFocus": "Fallacies as diagnostic patterns",
+    "objectives": [
+      "Identify a flaw in the inference, not just a label.",
+      "Distinguish a weak argument from a false conclusion."
+    ],
+    "lesson": [
+      "A fallacious argument can happen to reach a true conclusion. Diagnose how the offered support fails.",
+      "For each label, write a plain-language explanation. Then repair the argument by adding evidence or narrowing its scope."
+    ],
+    "practice": [
+      "Complete five Fallacy Spotter rounds.",
+      "Rewrite three flawed claims so the evidence matches their scope."
+    ],
+    "assessment": "Five diagnoses with reasons and repaired claims.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-4",
+    "week": 4,
+    "month": 1,
+    "title": "Make structure second nature",
+    "focus": "PREP & foundation checkpoint",
+    "minutes": 45,
+    "readingId": "pirie",
+    "readingFocus": "Testing the support behind a conclusion",
+    "objectives": [
+      "Give a direct answer before elaborating.",
+      "Combine a clear structure with valid reasoning."
+    ],
+    "lesson": [
+      "PREP moves from Point to Reason to Example and back to Point. An example illustrates a reason but may not establish a general rule.",
+      "Use your final point to state what follows and what remains uncertain. Brevity should expose your logic, not hide its gaps."
+    ],
+    "practice": [
+      "Answer six everyday prompts in 60 seconds each.",
+      "Review one recording for claim clarity, support, and unsupported generalizations."
+    ],
+    "assessment": "A two-minute argument and a written self-review.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-5",
+    "week": 5,
+    "month": 2,
+    "title": "Understand before opposing",
+    "focus": "Steel-manning",
+    "minutes": 45,
+    "readingId": "schopenhauer",
+    "readingFocus": "Recognizing distortion and overextension",
+    "objectives": [
+      "Present an opposing view in terms its holder could accept.",
+      "Separate the strongest claim from an easy target."
+    ],
+    "lesson": [
+      "Before criticizing a view, identify its best evidence and its most reasonable scope. Do not turn a modest proposal into an extreme one.",
+      "Steel-manning is a charitable reconstruction, not agreement. Ask whether your opponent recognizes the restatement."
+    ],
+    "practice": [
+      "Write the strongest case for a view you oppose.",
+      "Answer that case without commenting on the speaker’s character."
+    ],
+    "assessment": "A fair 90-second opposing case and a focused response.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-6",
+    "week": 6,
+    "month": 2,
+    "title": "Concede with precision",
+    "focus": "Common ground & limits",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Agreement as an opening for persuasion",
+    "objectives": [
+      "Concede a true point without overstating its implications.",
+      "Distinguish values, facts, and policy choices."
+    ],
+    "lesson": [
+      "A limited concession can make the remaining disagreement clearer. State exactly what the evidence establishes.",
+      "Agreeing that a problem is serious does not commit you to every proposed solution. Compare alternatives against shared criteria."
+    ],
+    "practice": [
+      "Practice six concession phrases from the phrasebook.",
+      "Write three responses that accept a premise but test the conclusion."
+    ],
+    "assessment": "A response containing a concession, a boundary, and a reasoned alternative.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-7",
+    "week": 7,
+    "month": 2,
+    "title": "Find the load-bearing premise",
+    "focus": "Assumptions & burden of proof",
+    "minutes": 45,
+    "readingId": "pirie",
+    "readingFocus": "Circularity and unsupported causal links",
+    "objectives": [
+      "Identify a premise the conclusion depends on.",
+      "Ask for the evidence that could test it."
+    ],
+    "lesson": [
+      "A load-bearing premise is one whose failure would weaken the conclusion. Check it before debating secondary details.",
+      "For causal claims, consider sequence, plausible mechanisms, comparison groups, and alternative explanations. Correlation alone leaves work to do."
+    ],
+    "practice": [
+      "Underline the hidden warrant in four arguments.",
+      "Formulate one discriminating question for each."
+    ],
+    "assessment": "Four premise maps and four questions that could change the conclusion.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-8",
+    "week": 8,
+    "month": 2,
+    "title": "Respond without losing the thread",
+    "focus": "Four-step refutation",
+    "minutes": 45,
+    "readingId": "schopenhauer",
+    "readingFocus": "Recognizing diversions in controversy",
+    "objectives": [
+      "Refute the actual claim with a specific reason.",
+      "Return to the question after a diversion."
+    ],
+    "lesson": [
+      "Use four moves: they say, I respond, because, therefore. Each move has a job; keep the implication tied to the objection.",
+      "When a new topic appears, determine whether it matters to the original claim. Acknowledge it and return to the unresolved inference when needed."
+    ],
+    "practice": [
+      "Complete six timed refutations.",
+      "Redo the weakest one with a narrower objection and a better counterexample."
+    ],
+    "assessment": "A three-minute rebuttal that addresses two real objections.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-9",
+    "week": 9,
+    "month": 3,
+    "title": "Choose the frame deliberately",
+    "focus": "Loaded language & priming",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "How presentation shapes an audience’s attention",
+    "objectives": [
+      "Distinguish description from evaluation.",
+      "Make a frame explicit and test what it omits."
+    ],
+    "lesson": [
+      "A frame foregrounds some aspects of a choice. Calling a measure an investment or a cost directs attention differently without settling its value.",
+      "Replace a loaded word with a neutral description, then ask which facts remain. Keep comparisons consistent across options."
+    ],
+    "practice": [
+      "Describe the same policy through cost, fairness, and opportunity frames.",
+      "Identify one important consideration each frame leaves out."
+    ],
+    "assessment": "Three frames and a neutral statement of the underlying facts.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-10",
+    "week": 10,
+    "month": 3,
+    "title": "Build a vocabulary you can use",
+    "focus": "Morphology & active recall",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Clarity and audience-appropriate language",
+    "objectives": [
+      "Decode unfamiliar words using roots and affixes.",
+      "Use new vocabulary in a natural spoken sentence."
+    ],
+    "lesson": [
+      "Roots and affixes are clues, not guarantees: historical meanings and modern usage can differ. Verify the full word and its register.",
+      "A word becomes useful through retrieval in context. Explain it simply, say it aloud, and use it while answering a question."
+    ],
+    "practice": [
+      "Learn eight lexicon words and review due cards daily.",
+      "Deliver a one-minute answer using three of those words naturally."
+    ],
+    "assessment": "Eight word explanations and two spoken responses.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-11",
+    "week": 11,
+    "month": 3,
+    "title": "Give ideas a rhythm",
+    "focus": "Cadence, contrast & pauses",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Delivery and memorable phrasing",
+    "objectives": [
+      "Use pauses at idea boundaries.",
+      "Build parallel phrases without obscuring meaning."
+    ],
+    "lesson": [
+      "Cadence comes from stress, sentence length, and silence. Mark the main thought before you mark where to breathe.",
+      "Parallel clauses make relationships audible. Keep the grammar aligned and avoid a flourish that overstates your evidence."
+    ],
+    "practice": [
+      "Mark pauses in a 150-word speech.",
+      "Record the same passage at two speeds and compare intelligibility."
+    ],
+    "assessment": "A 90-second delivery with intentional pauses and one three-part cadence.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-12",
+    "week": 12,
+    "month": 3,
+    "title": "Stay precise under pressure",
+    "focus": "Tone & vocabulary checkpoint",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Adapting language to the audience",
+    "objectives": [
+      "Match tone to purpose and relationship.",
+      "Use specific vocabulary without sounding forced."
+    ],
+    "lesson": [
+      "A measured tone can preserve cooperation during disagreement. A decisive tone can make a conclusion clear once the reasoning is established.",
+      "Under time pressure, prefer a familiar accurate word to an impressive uncertain one. Self-correct promptly if a word does not fit."
+    ],
+    "practice": [
+      "Complete tone-matching and speed-recall drills.",
+      "Answer three challenges, using a different tone for each."
+    ],
+    "assessment": "Three two-minute defenses using at least three target words each.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-13",
+    "week": 13,
+    "month": 4,
+    "title": "Ask the question that matters",
+    "focus": "Cross-examination",
+    "minutes": 45,
+    "readingId": "schopenhauer",
+    "readingFocus": "Recognizing traps and disputed definitions",
+    "objectives": [
+      "Ask one question at a time.",
+      "Test a claim without smuggling in a disputed premise."
+    ],
+    "lesson": [
+      "A useful question reduces uncertainty: what exactly is claimed, what supports it, and what would count against it?",
+      "Avoid a loaded question that assumes what you are trying to prove. Listen to the answer and adjust the next question accordingly."
+    ],
+    "practice": [
+      "Write a sequence of five short, neutral questions.",
+      "Practice responding to an ambiguous question by requesting clarification."
+    ],
+    "assessment": "A five-minute cross-examination with a fair summary of the answers.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-14",
+    "week": 14,
+    "month": 4,
+    "title": "Think on your feet",
+    "focus": "Impromptu speaking",
+    "minutes": 45,
+    "readingId": "heinrichs",
+    "readingFocus": "Audience, timing, and concise arguments",
+    "objectives": [
+      "Choose a structure quickly.",
+      "Separate a useful example from an unverified fact."
+    ],
+    "lesson": [
+      "Use preparation time to choose a point and a structure. A short, defensible claim is easier to develop than an ambitious vague one.",
+      "Label hypothetical examples. If you do not know a fact, explain what information you would need instead of manufacturing a statistic."
+    ],
+    "practice": [
+      "Take eight random prompts with 20 seconds of preparation.",
+      "Speak for 90 seconds using PREP and one concession."
+    ],
+    "assessment": "Four recorded responses with clear reasoning and no invented evidence.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-15",
+    "week": 15,
+    "month": 4,
+    "title": "Close the case",
+    "focus": "Synthesis & closing arguments",
+    "minutes": 45,
+    "readingId": "pirie",
+    "readingFocus": "Comparing the strength of competing arguments",
+    "objectives": [
+      "Weigh competing reasons against shared criteria.",
+      "End with a proportionate request or conclusion."
+    ],
+    "lesson": [
+      "A closing identifies the decisive issue and explains why one option better meets the agreed criteria. It does not merely repeat every point.",
+      "Address the strongest remaining objection and state residual uncertainty. End with a concrete conclusion matched to the evidence."
+    ],
+    "practice": [
+      "Reduce a debate to three issues and rank their importance.",
+      "Deliver a two-minute closing that includes the strongest objection."
+    ],
+    "assessment": "A closing with explicit weighing, a concession, and a concrete recommendation.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  },
+  {
+    "id": "week-16",
+    "week": 16,
+    "month": 4,
+    "title": "Your final pressure test",
+    "focus": "Live synthesis & reflection",
+    "minutes": 45,
+    "readingId": "schopenhauer",
+    "readingFocus": "Distinguishing winning from sound reasoning",
+    "objectives": [
+      "Integrate structure, refutation, vocabulary, and delivery.",
+      "Name what would change your mind."
+    ],
+    "lesson": [
+      "Run a full round: opening, questions, rebuttal, and closing. Keep track of which claims are established and which are still disputed.",
+      "Evaluate accuracy, charity, structure, and delivery separately. The goal is a defensible position communicated clearly, including correction when warranted."
+    ],
+    "practice": [
+      "Complete a 12-minute mock debate and a final vocabulary review.",
+      "Compare with your week-one speech and write a maintenance plan."
+    ],
+    "assessment": "A complete debate, a rubric-based review, and a 30-day continuation plan.",
+    "dailyPlan": [
+      "10 min spaced repetition",
+      "10 min reading and notes",
+      "15 min focused exercise",
+      "10 min spoken application"
+    ]
+  }
+]

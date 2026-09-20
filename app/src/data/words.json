@@ -1,0 +1,738 @@
+[
+  {
+    "id": "inexplicable",
+    "word": "inexplicable",
+    "partOfSpeech": "adjective",
+    "definition": "Impossible to explain satisfactorily.",
+    "prefix": {
+      "text": "in-",
+      "meaning": "not"
+    },
+    "base": {
+      "text": "explic",
+      "meaning": "unfold / explain"
+    },
+    "suffix": {
+      "text": "-able",
+      "meaning": "capable of"
+    },
+    "rootId": "plic",
+    "example": "The sudden reversal was inexplicable without new evidence.",
+    "cloze": "An _____ reversal demands an explanation.",
+    "category": "Precision",
+    "note": "Latin explicare means to unfold or explain; explic- is a bound stem, not an English word."
+  },
+  {
+    "id": "eloquent",
+    "word": "eloquent",
+    "partOfSpeech": "adjective",
+    "definition": "Fluent, expressive, and persuasive in speech.",
+    "prefix": {
+      "text": "e-",
+      "meaning": "out"
+    },
+    "base": {
+      "text": "loqu",
+      "meaning": "speak"
+    },
+    "suffix": {
+      "text": "-ent",
+      "meaning": "having the quality of"
+    },
+    "rootId": "loqu",
+    "example": "Her eloquent closing made a complex idea accessible.",
+    "cloze": "An _____ speaker makes complex ideas accessible.",
+    "category": "Delivery",
+    "note": "The Latin stem loqu- changes to loqu- plus -ent in this teaching analysis."
+  },
+  {
+    "id": "benevolent",
+    "word": "benevolent",
+    "partOfSpeech": "adjective",
+    "definition": "Well meaning and inclined to do good.",
+    "prefix": {
+      "text": "bene-",
+      "meaning": "well"
+    },
+    "base": {
+      "text": "vol",
+      "meaning": "wish"
+    },
+    "suffix": {
+      "text": "-ent",
+      "meaning": "having the quality of"
+    },
+    "rootId": "vol",
+    "example": "Even a benevolent policy needs independent scrutiny.",
+    "cloze": "A _____ leader acts with goodwill.",
+    "category": "Character",
+    "note": "From Latin bene (well) and volens (wishing)."
+  },
+  {
+    "id": "malevolent",
+    "word": "malevolent",
+    "partOfSpeech": "adjective",
+    "definition": "Wishing harm to others.",
+    "prefix": {
+      "text": "male-",
+      "meaning": "badly"
+    },
+    "base": {
+      "text": "vol",
+      "meaning": "wish"
+    },
+    "suffix": {
+      "text": "-ent",
+      "meaning": "having the quality of"
+    },
+    "rootId": "vol",
+    "example": "Do not presume malevolent intent when evidence is incomplete.",
+    "cloze": "Wishing harm reflects _____ intent.",
+    "category": "Character",
+    "note": "Male- comes from Latin male, badly, rather than the English word male."
+  },
+  {
+    "id": "contradiction",
+    "word": "contradiction",
+    "partOfSpeech": "noun",
+    "definition": "A direct conflict between statements or ideas.",
+    "prefix": {
+      "text": "contra-",
+      "meaning": "against"
+    },
+    "base": {
+      "text": "dict",
+      "meaning": "say"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / state"
+    },
+    "rootId": "dict",
+    "example": "There is a contradiction between the promise and the budget.",
+    "cloze": "Two mutually incompatible claims form a _____.",
+    "category": "Logic",
+    "note": "A learning decomposition of the Latin-derived stem contradict- and -ion."
+  },
+  {
+    "id": "prediction",
+    "word": "prediction",
+    "partOfSpeech": "noun",
+    "definition": "A statement about what will happen.",
+    "prefix": {
+      "text": "pre-",
+      "meaning": "before"
+    },
+    "base": {
+      "text": "dict",
+      "meaning": "say"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / result"
+    },
+    "rootId": "dict",
+    "example": "Make a prediction that the next trial can test.",
+    "cloze": "A testable statement about the future is a _____.",
+    "category": "Logic",
+    "note": "Latin praedicere combines prae, before, with dicere, say."
+  },
+  {
+    "id": "credible",
+    "word": "credible",
+    "partOfSpeech": "adjective",
+    "definition": "Worthy of belief or trust.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "cred",
+      "meaning": "believe"
+    },
+    "suffix": {
+      "text": "-ible",
+      "meaning": "capable of"
+    },
+    "rootId": "cred",
+    "example": "A credible source explains how its data were collected.",
+    "cloze": "A trustworthy account is _____.",
+    "category": "Evidence",
+    "note": "Cred- is a bound Latin-derived root."
+  },
+  {
+    "id": "incredible",
+    "word": "incredible",
+    "partOfSpeech": "adjective",
+    "definition": "Difficult to believe; also used to mean extraordinary.",
+    "prefix": {
+      "text": "in-",
+      "meaning": "not"
+    },
+    "base": {
+      "text": "cred",
+      "meaning": "believe"
+    },
+    "suffix": {
+      "text": "-ible",
+      "meaning": "capable of"
+    },
+    "rootId": "cred",
+    "example": "The incredible claim requires unusually strong evidence.",
+    "cloze": "A claim that is difficult to believe is _____.",
+    "category": "Evidence",
+    "note": "Use the literal sense carefully: everyday speech also uses incredible as praise."
+  },
+  {
+    "id": "credulous",
+    "word": "credulous",
+    "partOfSpeech": "adjective",
+    "definition": "Too ready to believe something.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "cred",
+      "meaning": "believe"
+    },
+    "suffix": {
+      "text": "-ulous",
+      "meaning": "inclined to"
+    },
+    "rootId": "cred",
+    "example": "A credulous audience may mistake confidence for proof.",
+    "cloze": "An overly trusting listener is _____.",
+    "category": "Evidence",
+    "note": "The adjective-forming ending continues Latin -ulus; the teaching split is simplified."
+  },
+  {
+    "id": "incredulous",
+    "word": "incredulous",
+    "partOfSpeech": "adjective",
+    "definition": "Unwilling or unable to believe something.",
+    "prefix": {
+      "text": "in-",
+      "meaning": "not"
+    },
+    "base": {
+      "text": "cred",
+      "meaning": "believe"
+    },
+    "suffix": {
+      "text": "-ulous",
+      "meaning": "inclined to"
+    },
+    "rootId": "cred",
+    "example": "The panel was incredulous at the unsupported claim.",
+    "cloze": "An unconvinced, disbelieving audience is _____.",
+    "category": "Evidence",
+    "note": "Incredulous describes the person who doubts; incredible describes what is hard to believe."
+  },
+  {
+    "id": "retrospective",
+    "word": "retrospective",
+    "partOfSpeech": "adjective",
+    "definition": "Looking back at past events.",
+    "prefix": {
+      "text": "retro-",
+      "meaning": "backward"
+    },
+    "base": {
+      "text": "spect",
+      "meaning": "look"
+    },
+    "suffix": {
+      "text": "-ive",
+      "meaning": "tending to"
+    },
+    "rootId": "spect",
+    "example": "A retrospective review revealed the missing assumption.",
+    "cloze": "A review looking back is _____.",
+    "category": "Precision",
+    "note": "The root spect- comes from Latin specere, to look."
+  },
+  {
+    "id": "introspection",
+    "word": "introspection",
+    "partOfSpeech": "noun",
+    "definition": "Examination of one’s own thoughts and feelings.",
+    "prefix": {
+      "text": "intro-",
+      "meaning": "inward"
+    },
+    "base": {
+      "text": "spect",
+      "meaning": "look"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / process"
+    },
+    "rootId": "spect",
+    "example": "Introspection helped her separate evidence from pride.",
+    "cloze": "Looking inward at your own thoughts is _____.",
+    "category": "Character",
+    "note": "A transparent learning split of intro-, spect-, and -ion."
+  },
+  {
+    "id": "circumspection",
+    "word": "circumspection",
+    "partOfSpeech": "noun",
+    "definition": "Careful consideration before acting.",
+    "prefix": {
+      "text": "circum-",
+      "meaning": "around"
+    },
+    "base": {
+      "text": "spect",
+      "meaning": "look"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / process"
+    },
+    "rootId": "spect",
+    "example": "Circumspection is useful when a question hides an assumption.",
+    "cloze": "Cautious consideration before acting is _____.",
+    "category": "Precision",
+    "note": "The image is looking around before proceeding."
+  },
+  {
+    "id": "tenable",
+    "word": "tenable",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be defended or maintained.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "ten",
+      "meaning": "hold"
+    },
+    "suffix": {
+      "text": "-able",
+      "meaning": "capable of"
+    },
+    "rootId": "ten",
+    "example": "The position is tenable only if the cost estimate is sound.",
+    "cloze": "A position that can be defended is _____.",
+    "category": "Logic",
+    "note": "From French tenable, ultimately Latin tenere, to hold."
+  },
+  {
+    "id": "untenable",
+    "word": "untenable",
+    "partOfSpeech": "adjective",
+    "definition": "Unable to be defended or maintained.",
+    "prefix": {
+      "text": "un-",
+      "meaning": "not"
+    },
+    "base": {
+      "text": "ten",
+      "meaning": "hold"
+    },
+    "suffix": {
+      "text": "-able",
+      "meaning": "capable of"
+    },
+    "rootId": "ten",
+    "example": "The conclusion became untenable after the evidence changed.",
+    "cloze": "An indefensible position is _____.",
+    "category": "Logic",
+    "note": "English un- attaches to tenable; the deeper stem is Latin-derived."
+  },
+  {
+    "id": "immutable",
+    "word": "immutable",
+    "partOfSpeech": "adjective",
+    "definition": "Not able to be changed.",
+    "prefix": {
+      "text": "im-",
+      "meaning": "not"
+    },
+    "base": {
+      "text": "mut",
+      "meaning": "change"
+    },
+    "suffix": {
+      "text": "-able",
+      "meaning": "capable of"
+    },
+    "rootId": "mut",
+    "example": "Treat the deadline as fixed, not the plan as immutable.",
+    "cloze": "Something incapable of change is _____.",
+    "category": "Precision",
+    "note": "Im- is a form of negative in- before certain consonants."
+  },
+  {
+    "id": "mutable",
+    "word": "mutable",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of being changed.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "mut",
+      "meaning": "change"
+    },
+    "suffix": {
+      "text": "-able",
+      "meaning": "capable of"
+    },
+    "rootId": "mut",
+    "example": "Preferences are mutable when incentives change.",
+    "cloze": "Something that can change is _____.",
+    "category": "Precision",
+    "note": "Latin mutare means to change."
+  },
+  {
+    "id": "persuasive",
+    "word": "persuasive",
+    "partOfSpeech": "adjective",
+    "definition": "Effective at causing someone to accept an idea.",
+    "prefix": {
+      "text": "per-",
+      "meaning": "thoroughly"
+    },
+    "base": {
+      "text": "suas",
+      "meaning": "urge"
+    },
+    "suffix": {
+      "text": "-ive",
+      "meaning": "having the quality of"
+    },
+    "rootId": "suad / suas",
+    "example": "A persuasive argument connects evidence to the audience’s concern.",
+    "cloze": "An argument that convinces is _____.",
+    "category": "Delivery",
+    "note": "Suas- is a stem variant of Latin suadere, to urge."
+  },
+  {
+    "id": "dissuasion",
+    "word": "dissuasion",
+    "partOfSpeech": "noun",
+    "definition": "The act of persuading someone not to do something.",
+    "prefix": {
+      "text": "dis-",
+      "meaning": "away"
+    },
+    "base": {
+      "text": "suas",
+      "meaning": "urge"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / process"
+    },
+    "rootId": "suad / suas",
+    "example": "Dissuasion worked better when an alternative was offered.",
+    "cloze": "Persuading someone not to act is _____.",
+    "category": "Delivery",
+    "note": "Related to dissuade; the stem uses suas- before -ion."
+  },
+  {
+    "id": "subversion",
+    "word": "subversion",
+    "partOfSpeech": "noun",
+    "definition": "The undermining of an established system.",
+    "prefix": {
+      "text": "sub-",
+      "meaning": "under"
+    },
+    "base": {
+      "text": "vers",
+      "meaning": "turn"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / process"
+    },
+    "rootId": "vert / vers",
+    "example": "Criticism of a policy is not necessarily subversion of an institution.",
+    "cloze": "Undermining an established order is _____.",
+    "category": "Framing",
+    "note": "The historical image is turning from beneath."
+  },
+  {
+    "id": "diversion",
+    "word": "diversion",
+    "partOfSpeech": "noun",
+    "definition": "A turning away from a main course or topic.",
+    "prefix": {
+      "text": "di-",
+      "meaning": "apart / aside"
+    },
+    "base": {
+      "text": "vers",
+      "meaning": "turn"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / process"
+    },
+    "rootId": "vert / vers",
+    "example": "The personal accusation was a diversion from the evidence.",
+    "cloze": "A distraction from the main issue is a _____.",
+    "category": "Framing",
+    "note": "Di- is a variant of dis- in the Latin-derived word."
+  },
+  {
+    "id": "portable",
+    "word": "portable",
+    "partOfSpeech": "adjective",
+    "definition": "Able to be carried or moved easily.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "port",
+      "meaning": "carry"
+    },
+    "suffix": {
+      "text": "-able",
+      "meaning": "capable of"
+    },
+    "rootId": "port",
+    "example": "A portable framework works in meetings as well as debates.",
+    "cloze": "A framework that is easy to carry between contexts is _____.",
+    "category": "Precision",
+    "note": "From Latin portare, to carry."
+  },
+  {
+    "id": "vocal",
+    "word": "vocal",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to the voice; openly expressing views.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "voc",
+      "meaning": "voice"
+    },
+    "suffix": {
+      "text": "-al",
+      "meaning": "relating to"
+    },
+    "rootId": "voc",
+    "example": "Vocal emphasis should make the central claim easy to hear.",
+    "cloze": "Emphasis made with the voice is _____ emphasis.",
+    "category": "Delivery",
+    "note": "From Latin vox, with stem voc-, voice."
+  },
+  {
+    "id": "invocation",
+    "word": "invocation",
+    "partOfSpeech": "noun",
+    "definition": "An appeal to an authority, principle, or power.",
+    "prefix": {
+      "text": "in-",
+      "meaning": "upon"
+    },
+    "base": {
+      "text": "voc",
+      "meaning": "call"
+    },
+    "suffix": {
+      "text": "-ation",
+      "meaning": "act / process"
+    },
+    "rootId": "voc",
+    "example": "An invocation of tradition does not settle the evidence.",
+    "cloze": "Calling upon a principle or authority is an _____.",
+    "category": "Framing",
+    "note": "Here in- is not the negative prefix; it belongs to Latin invocare."
+  },
+  {
+    "id": "chronology",
+    "word": "chronology",
+    "partOfSpeech": "noun",
+    "definition": "The arrangement of events in time order.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "chron",
+      "meaning": "time"
+    },
+    "suffix": {
+      "text": "-ology",
+      "meaning": "study / account of"
+    },
+    "rootId": "chron",
+    "example": "Establish the chronology before arguing about causation.",
+    "cloze": "An ordered timeline is a _____.",
+    "category": "Evidence",
+    "note": "-ology combines the connecting vowel o with -logy; the split is pedagogical."
+  },
+  {
+    "id": "phonetic",
+    "word": "phonetic",
+    "partOfSpeech": "adjective",
+    "definition": "Relating to speech sounds.",
+    "prefix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "base": {
+      "text": "phon",
+      "meaning": "sound"
+    },
+    "suffix": {
+      "text": "-etic",
+      "meaning": "relating to"
+    },
+    "rootId": "phon",
+    "example": "A phonetic cue can make a new word easier to say.",
+    "cloze": "A cue about speech sounds is _____.",
+    "category": "Delivery",
+    "note": "A simplified decomposition of Greek-derived phonetic."
+  },
+  {
+    "id": "amorphous",
+    "word": "amorphous",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking a clearly defined form or structure.",
+    "prefix": {
+      "text": "a-",
+      "meaning": "without"
+    },
+    "base": {
+      "text": "morph",
+      "meaning": "form"
+    },
+    "suffix": {
+      "text": "-ous",
+      "meaning": "having the quality of"
+    },
+    "rootId": "morph",
+    "example": "The amorphous proposal needs a measurable objective.",
+    "cloze": "A proposal with no clear shape is _____.",
+    "category": "Precision",
+    "note": "Greek a- is a negative prefix."
+  },
+  {
+    "id": "empathy",
+    "word": "empathy",
+    "partOfSpeech": "noun",
+    "definition": "The capacity to understand another person’s feelings.",
+    "prefix": {
+      "text": "em-",
+      "meaning": "in"
+    },
+    "base": {
+      "text": "path",
+      "meaning": "feeling"
+    },
+    "suffix": {
+      "text": "-y",
+      "meaning": "state / quality"
+    },
+    "rootId": "path",
+    "example": "Empathy helps you restate an objection fairly.",
+    "cloze": "Understanding another person’s feelings shows _____.",
+    "category": "Character",
+    "note": "A teaching split of a word based on Greek empatheia; em- is a form of en-."
+  },
+  {
+    "id": "inscription",
+    "word": "inscription",
+    "partOfSpeech": "noun",
+    "definition": "Words written or engraved on a surface.",
+    "prefix": {
+      "text": "in-",
+      "meaning": "on / into"
+    },
+    "base": {
+      "text": "script",
+      "meaning": "write"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / result"
+    },
+    "rootId": "scrib",
+    "example": "The inscription gave the monument a voice across centuries.",
+    "cloze": "Writing engraved on a monument is an _____.",
+    "category": "Precision",
+    "note": "Script- is a stem variant related to scribere, to write."
+  },
+  {
+    "id": "benediction",
+    "word": "benediction",
+    "partOfSpeech": "noun",
+    "definition": "An expression of blessing or good wishes.",
+    "prefix": {
+      "text": "bene-",
+      "meaning": "well"
+    },
+    "base": {
+      "text": "dict",
+      "meaning": "say"
+    },
+    "suffix": {
+      "text": "-ion",
+      "meaning": "act / result"
+    },
+    "rootId": "dict",
+    "example": "The closing felt like a benediction rather than a demand.",
+    "cloze": "An expression of blessing is a _____.",
+    "category": "Delivery",
+    "note": "The literal roots suggest speaking well of someone."
+  },
+  {
+    "id": "malfunction",
+    "word": "malfunction",
+    "partOfSpeech": "noun",
+    "definition": "A failure to work correctly.",
+    "prefix": {
+      "text": "mal-",
+      "meaning": "badly"
+    },
+    "base": {
+      "text": "function",
+      "meaning": "perform / operate"
+    },
+    "suffix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "rootId": "mal",
+    "example": "One malfunction does not prove the entire design is defective.",
+    "cloze": "A failure of normal operation is a _____.",
+    "category": "Evidence",
+    "note": "Mal- attaches to the English base function; there is no separate suffix here."
+  },
+  {
+    "id": "transport",
+    "word": "transport",
+    "partOfSpeech": "verb",
+    "definition": "To carry something from one place to another.",
+    "prefix": {
+      "text": "trans-",
+      "meaning": "across"
+    },
+    "base": {
+      "text": "port",
+      "meaning": "carry"
+    },
+    "suffix": {
+      "text": "",
+      "meaning": "none"
+    },
+    "rootId": "port",
+    "example": "A concrete example can transport the audience into the situation.",
+    "cloze": "To carry across locations is to _____.",
+    "category": "Delivery",
+    "note": "No additional suffix is present in this form."
+  }
+]

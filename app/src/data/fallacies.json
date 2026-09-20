@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fallacy-1",
+    "name": "Ad hominem",
+    "definition": "Attacking a person instead of assessing the argument.",
+    "argument": "We can ignore her transit proposal because she is an unpleasant person.",
+    "weakness": "Character does not resolve the proposal’s costs or benefits.",
+    "refutation": "Separate the speaker from the claim. Ask for evidence about the proposal."
+  },
+  {
+    "id": "fallacy-2",
+    "name": "Straw man",
+    "definition": "Replacing an opponent’s claim with a weaker version.",
+    "argument": "You support one car-free street, so you want to ban every car in the city.",
+    "weakness": "One car-free street is not a universal ban.",
+    "refutation": "Restate the original scope and assess that specific proposal."
+  },
+  {
+    "id": "fallacy-3",
+    "name": "False dilemma",
+    "definition": "Presenting two options when plausible alternatives exist.",
+    "argument": "Either we cancel the program entirely or we accept every part of it unchanged.",
+    "weakness": "Revision, a pilot, or partial adoption are possible alternatives.",
+    "refutation": "Name an omitted option and compare it using the same criteria."
+  },
+  {
+    "id": "fallacy-4",
+    "name": "Hasty generalization",
+    "definition": "Drawing a broad conclusion from insufficient evidence.",
+    "argument": "Two people disliked the workshop; therefore, workshops never help anyone.",
+    "weakness": "Two reports cannot support a universal claim.",
+    "refutation": "Ask how the sample was selected and what the broader outcomes show."
+  },
+  {
+    "id": "fallacy-5",
+    "name": "Post hoc",
+    "definition": "Inferring causation from temporal sequence alone.",
+    "argument": "Productivity fell after we changed the logo, so the new logo caused the decline.",
+    "weakness": "Sequence alone does not establish a causal connection.",
+    "refutation": "Identify other changes and propose a comparison that tests the cause."
+  },
+  {
+    "id": "fallacy-6",
+    "name": "Circular reasoning",
+    "definition": "Using the conclusion as support for itself.",
+    "argument": "This policy is the best because no other policy is better.",
+    "weakness": "The premise repeats the conclusion without independent support.",
+    "refutation": "Request an external criterion and evidence against that criterion."
+  },
+  {
+    "id": "fallacy-7",
+    "name": "Appeal to popularity",
+    "definition": "Treating widespread belief as proof of truth.",
+    "argument": "Most people believe the claim, so it must be true.",
+    "weakness": "Popularity measures agreement, not accuracy.",
+    "refutation": "Ask for independent evidence while acknowledging the popularity."
+  },
+  {
+    "id": "fallacy-8",
+    "name": "Slippery slope",
+    "definition": "Assuming a chain of escalating effects without enough support.",
+    "argument": "If we extend one deadline, soon nobody will ever finish any work.",
+    "weakness": "The predicted escalation needs a mechanism and supporting evidence.",
+    "refutation": "Test each causal link and consider limits on the exception."
+  },
+  {
+    "id": "fallacy-9",
+    "name": "Equivocation",
+    "definition": "Changing the meaning of a key word within an argument.",
+    "argument": "The brochure says the service is free. Free people have no restrictions, so this service cannot have any rules.",
+    "weakness": "Free of charge and free of restrictions are different meanings.",
+    "refutation": "Define the term consistently and reassess the inference."
+  },
+  {
+    "id": "fallacy-10",
+    "name": "Red herring",
+    "definition": "Introducing an irrelevant issue to distract from the question.",
+    "argument": "Why discuss the failed safety inspection when our office has won a design award?",
+    "weakness": "The design award does not answer the safety question.",
+    "refutation": "Acknowledge the separate topic and return to inspection evidence."
+  },
+  {
+    "id": "fallacy-11",
+    "name": "Appeal to ignorance",
+    "definition": "Treating a lack of disproof as proof.",
+    "argument": "Nobody has proved this device does not work, so it definitely works.",
+    "weakness": "The absence of disproof does not establish effectiveness.",
+    "refutation": "Request a positive test with a clear success criterion."
+  },
+  {
+    "id": "fallacy-12",
+    "name": "Tu quoque",
+    "definition": "Dismissing a criticism because the critic is inconsistent.",
+    "argument": "You also arrive late, so your argument that punctuality matters is false.",
+    "weakness": "The critic’s inconsistency does not establish that the principle is false.",
+    "refutation": "Separate the standard’s merit from whether either person meets it."
+  }
+]

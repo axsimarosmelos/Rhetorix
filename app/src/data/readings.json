@@ -1,0 +1,23 @@
+[
+  {
+    "id": "heinrichs",
+    "title": "Thank You for Arguing",
+    "author": "Jay Heinrichs",
+    "summary": "An accessible introduction to persuasion in everyday situations, connecting classical rhetorical ideas with modern examples. Use it to notice audience, timing, and how an argument is presented.",
+    "url": "https://www.penguinrandomhouse.com/books/646966/thank-you-for-arguing-fourth-edition-revised-and-updated-by-jay-heinrichs/"
+  },
+  {
+    "id": "schopenhauer",
+    "title": "The Art of Being Right",
+    "author": "Arthur Schopenhauer",
+    "summary": "A catalog of tactics people use to prevail in disputes. Study the tactics as patterns to recognize and counter; rhetorical victory and a sound conclusion are different goals.",
+    "url": "https://www.gutenberg.org/ebooks/10731"
+  },
+  {
+    "id": "pirie",
+    "title": "How to Win Every Argument",
+    "author": "Madsen Pirie",
+    "summary": "A guide to common errors of reasoning and how they appear in arguments. Use its fallacy discussions to diagnose an inference precisely and repair it with better support.",
+    "url": "https://www.bloomsbury.com/us/how-to-win-every-argument-9781350405011/"
+  }
+]

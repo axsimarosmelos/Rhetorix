@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p1",
+    "text": "Universities should replace most timed exams with project-based assessment.",
+    "framework": "toulmin"
+  },
+  {
+    "id": "p2",
+    "text": "Large cities should make public transport free at the point of use.",
+    "framework": "prep"
+  },
+  {
+    "id": "p3",
+    "text": "Social platforms should hide public engagement counts.",
+    "framework": "toulmin"
+  },
+  {
+    "id": "p4",
+    "text": "A four-day workweek should become the default for office jobs.",
+    "framework": "prep"
+  },
+  {
+    "id": "p5",
+    "text": "Schools should prohibit personal smartphones during the school day.",
+    "framework": "toulmin"
+  },
+  {
+    "id": "p6",
+    "text": "Museums should return artifacts acquired under colonial rule.",
+    "framework": "prep"
+  },
+  {
+    "id": "p7",
+    "text": "Debate competitions should reward changing one’s mind when the evidence warrants it.",
+    "framework": "toulmin"
+  },
+  {
+    "id": "p8",
+    "text": "Governments should prioritize repairing infrastructure over building new projects.",
+    "framework": "prep"
+  }
+]

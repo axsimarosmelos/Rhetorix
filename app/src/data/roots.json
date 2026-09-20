@@ -1,0 +1,142 @@
+[
+  {
+    "id": "dict",
+    "root": "dict",
+    "meaning": "say / speak",
+    "origin": "Latin",
+    "examples": ["dictation", "contradiction", "prediction"]
+  },
+  {
+    "id": "loqu",
+    "root": "loqu",
+    "meaning": "speak",
+    "origin": "Latin",
+    "examples": ["eloquent", "colloquial", "soliloquy"]
+  },
+  {
+    "id": "voc",
+    "root": "voc",
+    "meaning": "voice / call",
+    "origin": "Latin",
+    "examples": ["vocal", "invocation", "advocate"]
+  },
+  {
+    "id": "spect",
+    "root": "spect",
+    "meaning": "look / observe",
+    "origin": "Latin",
+    "examples": ["introspection", "retrospective", "circumspection"]
+  },
+  {
+    "id": "scrib",
+    "root": "scrib",
+    "meaning": "write",
+    "origin": "Latin",
+    "examples": ["describe", "inscription", "manuscript"]
+  },
+  {
+    "id": "port",
+    "root": "port",
+    "meaning": "carry",
+    "origin": "Latin",
+    "examples": ["transport", "portable", "export"]
+  },
+  {
+    "id": "cred",
+    "root": "cred",
+    "meaning": "believe / trust",
+    "origin": "Latin",
+    "examples": ["credible", "credulous", "incredulous"]
+  },
+  {
+    "id": "bene",
+    "root": "bene",
+    "meaning": "well / good",
+    "origin": "Latin",
+    "examples": ["benevolent", "beneficial", "benediction"]
+  },
+  {
+    "id": "mal",
+    "root": "mal",
+    "meaning": "bad / ill",
+    "origin": "Latin",
+    "examples": ["malice", "malevolent", "malfunction"]
+  },
+  {
+    "id": "chron",
+    "root": "chron",
+    "meaning": "time",
+    "origin": "Greek",
+    "examples": ["chronology", "synchronous", "anachronism"]
+  },
+  {
+    "id": "phon",
+    "root": "phon",
+    "meaning": "sound / voice",
+    "origin": "Greek",
+    "examples": ["phonetic", "symphony", "microphone"]
+  },
+  {
+    "id": "log",
+    "root": "log",
+    "meaning": "word / reason / account",
+    "origin": "Greek",
+    "examples": ["logic", "dialogue", "morphology"]
+  },
+  {
+    "id": "path",
+    "root": "path",
+    "meaning": "feeling / suffering",
+    "origin": "Greek",
+    "examples": ["empathy", "sympathy", "pathology"]
+  },
+  {
+    "id": "morph",
+    "root": "morph",
+    "meaning": "form / shape",
+    "origin": "Greek",
+    "examples": ["morphology", "metamorphosis", "amorphous"]
+  },
+  {
+    "id": "ten",
+    "root": "ten",
+    "meaning": "hold",
+    "origin": "Latin",
+    "examples": ["tenable", "tenure", "retention"]
+  },
+  {
+    "id": "mut",
+    "root": "mut",
+    "meaning": "change",
+    "origin": "Latin",
+    "examples": ["mutable", "mutation", "immutable"]
+  },
+  {
+    "id": "suad / suas",
+    "root": "suad / suas",
+    "meaning": "urge / persuade",
+    "origin": "Latin",
+    "examples": ["persuade", "persuasive", "dissuasion"]
+  },
+  {
+    "id": "plic",
+    "root": "plic",
+    "meaning": "fold",
+    "origin": "Latin",
+    "examples": ["explicit", "implicate", "inexplicable"]
+  },
+  {
+    "id": "vol",
+    "root": "vol",
+    "meaning": "wish / will",
+    "origin": "Latin",
+    "examples": ["volition", "benevolent", "malevolent"]
+  },
+  {
+    "id": "vert / vers",
+    "root": "vert / vers",
+    "meaning": "turn",
+    "origin": "Latin",
+    "examples": ["divert", "subversion", "conversion"]
+  }
+]

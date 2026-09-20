@@ -1,0 +1,89 @@
+[
+  {
+    "id": "toulmin",
+    "name": "Toulmin model",
+    "definition": "Connect a claim to grounds through a warrant; add backing, a qualifier, and a rebuttal.",
+    "steps": [
+      "Claim: what you want accepted",
+      "Grounds: evidence for the claim",
+      "Warrant: why those grounds support it",
+      "Backing: support for the warrant",
+      "Qualifier: limits on certainty",
+      "Rebuttal: when the claim may not apply"
+    ]
+  },
+  {
+    "id": "prep",
+    "name": "PREP",
+    "definition": "Point, Reason, Example, Point: a compact framework for a clear spoken answer.",
+    "steps": [
+      "Point: answer directly",
+      "Reason: explain why",
+      "Example: make it concrete",
+      "Point: restate the takeaway"
+    ]
+  },
+  {
+    "id": "steelman",
+    "name": "Steel-manning",
+    "definition": "Restate the strongest reasonable version of an opposing position before responding.",
+    "steps": [
+      "Identify the real concern",
+      "State its strongest support",
+      "Check that the restatement is fair",
+      "Respond to that version"
+    ]
+  },
+  {
+    "id": "concession",
+    "name": "Strategic concession",
+    "definition": "Accept a valid limited point, then explain what it does and does not establish.",
+    "steps": [
+      "Name the point you accept",
+      "Define its scope",
+      "Explain the remaining disagreement"
+    ]
+  },
+  {
+    "id": "appeals",
+    "name": "Ethos, pathos, logos",
+    "definition": "Ethos concerns credibility, pathos the audience’s emotions, and logos the reasoning of the argument.",
+    "steps": [
+      "Earn trust without substituting status for evidence",
+      "Connect the issue to human stakes",
+      "Make the inference explicit"
+    ]
+  },
+  {
+    "id": "refutation",
+    "name": "Four-step refutation",
+    "definition": "Identify the claim, state the objection, support it, and explain the implication.",
+    "steps": [
+      "They say: quote the actual claim fairly",
+      "I respond: name the specific flaw",
+      "Because: give a reason or counterexample",
+      "Therefore: explain what follows"
+    ]
+  },
+  {
+    "id": "pause",
+    "name": "Purposeful pause",
+    "definition": "Use silence at an idea boundary to help listeners process and to control your pace.",
+    "steps": [
+      "Finish the thought",
+      "Pause for one or two beats",
+      "Start the next sentence with intention"
+    ]
+  },
+  {
+    "id": "cross",
+    "name": "Cross-examination",
+    "definition": "Use short, precise questions to clarify a claim, test its evidence, and expose unsupported assumptions.",
+    "steps": [
+      "Define the central term",
+      "Ask for the strongest evidence",
+      "Test the scope with a counterexample",
+      "Summarize the answer fairly"
+    ]
+  }
+]

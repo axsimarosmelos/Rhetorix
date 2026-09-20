@@ -1,0 +1,8 @@
+node_modules/
+app/dist/
+app/.ssr-check/
+app/Rhetorix-Preview.html
+.env
+.env.*
+!.env.example
+.DS_Store

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "phrase-1",
+    "category": "Reframing",
+    "text": "Let’s separate the goal from the method.",
+    "tone": "Collaborative",
+    "usage": "When both sides want the same outcome but disagree on the route."
+  },
+  {
+    "id": "phrase-2",
+    "category": "Reframing",
+    "text": "The question is not whether we act, but which action works.",
+    "tone": "Decisive",
+    "usage": "Move from an unhelpful binary to a comparison of alternatives."
+  },
+  {
+    "id": "phrase-3",
+    "category": "Reframing",
+    "text": "What would success look like from your perspective?",
+    "tone": "Curious",
+    "usage": "Surface the other person’s evaluation criteria."
+  },
+  {
+    "id": "phrase-4",
+    "category": "Reframing",
+    "text": "That describes the symptom. What is driving it?",
+    "tone": "Analytical",
+    "usage": "Move discussion from outcomes to causes."
+  },
+  {
+    "id": "phrase-5",
+    "category": "Concession",
+    "text": "That is a fair concern; here is how I would address it.",
+    "tone": "Collaborative",
+    "usage": "Acknowledge a legitimate objection before answering."
+  },
+  {
+    "id": "phrase-6",
+    "category": "Concession",
+    "text": "I agree with the principle, though I question the application.",
+    "tone": "Measured",
+    "usage": "Distinguish a shared value from a disputed policy."
+  },
+  {
+    "id": "phrase-7",
+    "category": "Concession",
+    "text": "You are right about the cost. The remaining question is the benefit.",
+    "tone": "Measured",
+    "usage": "Grant a well-supported point while preserving the central comparison."
+  },
+  {
+    "id": "phrase-8",
+    "category": "Concession",
+    "text": "I would revise that claim in light of this evidence.",
+    "tone": "Open",
+    "usage": "Model correction without abandoning every part of your position."
+  },
+  {
+    "id": "phrase-9",
+    "category": "Counter-assertion",
+    "text": "That conclusion depends on an assumption we have not established.",
+    "tone": "Analytical",
+    "usage": "Identify a missing warrant rather than attacking the speaker."
+  },
+  {
+    "id": "phrase-10",
+    "category": "Counter-assertion",
+    "text": "The evidence supports a narrower claim.",
+    "tone": "Measured",
+    "usage": "Reject overgeneralization without dismissing all evidence."
+  },
+  {
+    "id": "phrase-11",
+    "category": "Counter-assertion",
+    "text": "Even if that premise holds, the conclusion does not follow.",
+    "tone": "Decisive",
+    "usage": "Distinguish truth of a premise from validity of an inference."
+  },
+  {
+    "id": "phrase-12",
+    "category": "Counter-assertion",
+    "text": "A compelling example is not yet a representative sample.",
+    "tone": "Analytical",
+    "usage": "Challenge an anecdotal generalization."
+  },
+  {
+    "id": "phrase-13",
+    "category": "Transition",
+    "text": "With that foundation, let’s examine the trade-off.",
+    "tone": "Analytical",
+    "usage": "Bridge a shared premise and a practical comparison."
+  },
+  {
+    "id": "phrase-14",
+    "category": "Transition",
+    "text": "There is a second consequence we should consider.",
+    "tone": "Measured",
+    "usage": "Introduce an additional effect without exaggerating it."
+  },
+  {
+    "id": "phrase-15",
+    "category": "Transition",
+    "text": "Here is where the distinction becomes practical.",
+    "tone": "Decisive",
+    "usage": "Move from a definition to an application."
+  },
+  {
+    "id": "phrase-16",
+    "category": "Transition",
+    "text": "Before we move on, let me make the connection explicit.",
+    "tone": "Collaborative",
+    "usage": "Clarify the relationship between two points."
+  },
+  {
+    "id": "phrase-17",
+    "category": "Cadence",
+    "text": "We need clarity in the goal, care in the method, and courage in the decision.",
+    "tone": "Inspirational",
+    "usage": "Use a three-part parallel structure; pause between each clause."
+  },
+  {
+    "id": "phrase-18",
+    "category": "Cadence",
+    "text": "A smaller promise. A stronger plan. A result we can measure.",
+    "tone": "Decisive",
+    "usage": "Use short parallel units to emphasize accountability."
+  },
+  {
+    "id": "phrase-19",
+    "category": "Cadence",
+    "text": "We can listen carefully, disagree clearly, and still move forward together.",
+    "tone": "Inspirational",
+    "usage": "Use balanced verbs to join disagreement with cooperation."
+  },
+  {
+    "id": "phrase-20",
+    "category": "Cadence",
+    "text": "First understand. Then test. Only then decide.",
+    "tone": "Decisive",
+    "usage": "Use progression and pauses to make the sequence memorable."
+  },
+  {
+    "id": "phrase-21",
+    "category": "Conversation",
+    "text": "Could you give me a concrete example?",
+    "tone": "Curious",
+    "usage": "Replace an abstract disagreement with a testable case."
+  },
+  {
+    "id": "phrase-22",
+    "category": "Conversation",
+    "text": "Let me check that I have understood you correctly.",
+    "tone": "Collaborative",
+    "usage": "Invite correction before responding."
+  },
+  {
+    "id": "phrase-23",
+    "category": "Conversation",
+    "text": "What evidence would change your mind?",
+    "tone": "Curious",
+    "usage": "Find out whether the position is open to revision."
+  },
+  {
+    "id": "phrase-24",
+    "category": "Conversation",
+    "text": "I need a moment to think that through.",
+    "tone": "Measured",
+    "usage": "Buy an honest pause instead of filling silence."
+  }
+]

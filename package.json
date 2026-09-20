@@ -1,0 +1,14 @@
+{
+  "name": "rhetorix-pages",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "npm --prefix app ci",
+    "dev": "npm --prefix app run dev",
+    "build": "npm --prefix app run build && node scripts/publish.mjs",
+    "test": "npm --prefix app test",
+    "test:render": "npm --prefix app run test:render"
+  },
+  "engines": { "node": ">=22.12.0" }
+}
